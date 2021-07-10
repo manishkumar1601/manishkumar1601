@@ -4,7 +4,7 @@
 
 - 📖 I’m currently learning **NodeJS**
 
-- 🕵️ I’m looking to collaborate with other **content creators.**
+- 🕵️ I’m looking to collaborate with other **Developers.**
 
 - 📫 How to reach me Instagram **@vminkook_manish**
 
