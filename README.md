@@ -2,6 +2,8 @@
 
 - 🧑‍🏫 I’m currently working **very hard.**
 
+- 🤷 I Know **Core PHP, CodeIgniter, JS, HTML, ASP.NET, VB.NET**
+
 - 📖 I’m currently learning **NodeJS**
 
 - 🕵️ I’m looking to collaborate with other **Developers.**
