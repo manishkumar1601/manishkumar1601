@@ -12,7 +12,7 @@
 
 - 📫 How to reach me on Twitter **[vminkook_manish](https://twitter.com/vminkook_manish)**
 
-- 🆓 Don't Forget To **[Follow Me](https://github.com/manishkumar1601)**
+- 🆓 Don't Forget To **[Follow Me](https://github.com/manishkumar1601)[on Github]**
 
 <p align="center"> <a href="Manish"><img width="170px" height="24" src="https://komarev.com/ghpvc/?username=manishkumar1601&label=PROFILE%20VISITORS&color=green&style=flat-square" alt="Manish" /></a> </p><br> 
 
