@@ -8,7 +8,9 @@
 
 - 🕵️ I’m looking to collaborate with other **Developers.**
 
-- 📫 How to reach me Instagram **[vminkook_manish](https://www.instagram.com/vminkook_manish/)**
+- 📫 How to reach me on Instagram **[vminkook_manish](https://www.instagram.com/vminkook_manish/)**
+
+- 📫 How to reach me on Twitter **[vminkook_manish](https://twitter.com/vminkook_manish)**
 
 - 🆓 Don't Forget To **[Follow Me](https://github.com/manishkumar1601)**
 
