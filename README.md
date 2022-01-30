@@ -4,7 +4,9 @@
 
 - 🤷 I Know **Core PHP, CodeIgniter, JS, HTML, ASP.NET, VB.NET**
 
-- 📖 I’m currently learning **NodeJS**
+- 📖 I’m currently learning **NodeJS and Angular**
+
+- 📖 Frontend Developer, works in **Angular**
 
 - 🕵️ I’m looking to collaborate with other **Developers.**
 
